@@ -18,8 +18,14 @@ and make the methods for this functionality, (put the created trips in an ArrayL
  */
 
 package main_package;
+import main_package.Menu;
 
 public class Main {
 
+    public static void main(String[] args){
+
+
+        Menu.ui();
+    }
 
 }

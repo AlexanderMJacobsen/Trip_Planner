@@ -2,11 +2,11 @@ package main_package.trip_package;
 
 public class SkiTrip extends Trip {
 
-    Boolean IsSkiTrip;
+    Boolean isSkiTrip;
 
-    public SkiTrip(String Country, int Duration, int Price, Boolean Hotel, Boolean IsSkiTrip){
-        super(Country, Duration, Price, Hotel);
-        this.IsSkiTrip = IsSkiTrip;
+    public SkiTrip(String country, int duration, int price, Boolean hotel, Boolean isSkiTrip){
+        super(country, duration, price, hotel);
+        this.isSkiTrip = isSkiTrip;
 
     }
 }
