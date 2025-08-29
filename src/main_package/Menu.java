@@ -20,7 +20,7 @@ public class Menu {
                 System.out.println("-----------------------------------------");
                 System.out.println("-----------------------------------------");
 
-                int input = Util.scanInt();
+                int input = Util.mScanInt();
 
                 switch (input) {
                     case 1:
@@ -61,7 +61,7 @@ public class Menu {
                 System.out.println("-----------------------------------------");
                 System.out.println("-----------------------------------------");
 
-                int input = Util.scanInt();
+                int input = Util.mScanInt();
 
                 switch (input) {
                     case 1:
@@ -98,7 +98,7 @@ public class Menu {
                 System.out.println("-----------------------------------------");
                 System.out.println("-----------------------------------------");
 
-                int input = Util.scanInt();
+                int input = Util.mScanInt();
 
                 switch (input) {
                     case 1:
